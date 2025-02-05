@@ -14,7 +14,8 @@ local ext = {
 	".tif",
 	".tiff",
 	".webp",
-	".zip"
+	".zip",
+	".webm"
 }
 local double_page_check = false
 local first_start = true
